@@ -22,3 +22,9 @@ Petit projet basique permettant de calculer l'Indice de Masse Corporelle (IMC) �
 ## Technologie utilisée
 
 - Python
+
+--- 
+
+## À propos 
+
+Auteur : Nina Singla
